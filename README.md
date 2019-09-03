@@ -1,4 +1,9 @@
-## NOTICE
+## NOTICE 
+
+This is the basic repository containing basic sample code for ftc robots. It's pretty much the same thing as the original repo, exept this gives you code to build off of other than the examples that most of the time don't really fit your needs.
+
+
+## NOTICE 2 (the real notice)
 
 This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season.  
 
